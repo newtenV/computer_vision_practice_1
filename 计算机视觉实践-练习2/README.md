@@ -18,7 +18,7 @@ Netron是一个跨平台工具，可以在Linux、Windows和Mac上运行，并�
 
 效果如下：
 
-![netron](C:\my\works\计算机视觉实践-练习\计算机视觉实践-练习2\images\netron.png)
+![netron](https://github.com/newtenV/computer_vision_practice_1/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%AE%9E%E8%B7%B5-%E7%BB%83%E4%B9%A02/images/netron.png)
 
 
 
@@ -50,7 +50,7 @@ MNIST 数据库是一个大型手写数字数据库（包含0~9十个数字）�
 
 LeNet网络相对简单。除了输入层之外，LeNet网络还有七层，包括两个卷积层、两个下采样层（池化层）和三个全连接层。每层包含不同数量的训练参数，如下图所示：
 
-![LeNet_5](C:\my\works\计算机视觉实践-练习\计算机视觉实践-练习2\images\LeNet_5.jpg)
+![LeNet_5](https://github.com/newtenV/computer_vision_practice_1/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%AE%9E%E8%B7%B5-%E7%BB%83%E4%B9%A02/images/LeNet_5.jpg)
 
 根据LeNet网络结构，定义网络层如下：
 
@@ -196,4 +196,5 @@ if __name__ == "__main__":
 
 结果输出
 
-![results](C:\my\works\计算机视觉实践-练习\计算机视觉实践-练习2\images\result.png)
+![results](https://github.com/newtenV/computer_vision_practice_1/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%AE%9E%E8%B7%B5-%E7%BB%83%E4%B9%A02/images/result.png)
+可见结果正确率很高。
