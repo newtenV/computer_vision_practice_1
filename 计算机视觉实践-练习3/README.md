@@ -2,18 +2,18 @@
 
 以下是Set5数据集的一些结果：
 
-![baby](C:\my\works\计算机视觉实践-练习\计算机视觉实践-练习3\images\downsample\baby.png)
+![baby](https://github.com/newtenV/computer_vision_practice_1/edit/main\images\downsample\baby.png)
 
-![baby](C:\my\works\计算机视觉实践-练习\计算机视觉实践-练习3\images\results\baby.png)
+![baby](https://github.com/newtenV/computer_vision_practice_1/edit/main\images\results\baby.png)
 
 ###### 评估结果为：
 
 SSIM: 0.9788694426134575
 PSNR: 37.00883792010775
 
-![bird](C:\my\works\计算机视觉实践-练习\计算机视觉实践-练习3\images\downsample\bird.png)
+![bird](https://github.com/newtenV/computer_vision_practice_1/edit/main\images\downsample\bird.png)
 
-![bird](C:\my\works\计算机视觉实践-练习\计算机视觉实践-练习3\images\results\bird.png)
+![bird](https://github.com/newtenV/computer_vision_practice_1/edit/main\images\results\bird.png)
 
 ###### 评估结果为：
 
