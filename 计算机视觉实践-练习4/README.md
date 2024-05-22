@@ -9,4 +9,4 @@
 
 ##### 结果：
 
-![result](C:\my\works\计算机视觉实践-练习\计算机视觉实践-练习4\result.png)
+![result](https://github.com/newtenV/computer_vision_practice_1/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%AE%9E%E8%B7%B5-%E7%BB%83%E4%B9%A04/result.png)
